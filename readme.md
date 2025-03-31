@@ -199,6 +199,8 @@ Puis redémarrer le service SSH :
 sudo systemctl restart ssh
 ```
 
+A partir du moment ou l'authentification par password est désactiver, vous ne pourrez vous connecter qu'avec une clé ssh valide et rentrer sur le serveur.
+
 ### 4. Interdiction de la connexion root
 ```sh
 sudo nano /etc/ssh/sshd_config
