@@ -365,7 +365,7 @@ crontab -e
 ```
 Ajouter :
 ```
-0 */6 * * * /home/admin/backup.sh
+0 */6 * * * /home/mathieu/backup.sh
 ```
 
 ---
