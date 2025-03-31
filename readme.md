@@ -2,8 +2,8 @@
 
 ## Mon Premier Serveur Sécurisé & Monitoré
 
-> **Auteur :** _[Votre nom ici]_  
-> **Date :** _[Date du projet]_  
+> **Auteur :** _Mathieu Dumont_  
+> **Date :** _31/03/2025_  
 > **Distribution :** Debian  
 
 ---
